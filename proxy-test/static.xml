@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xml:base="http://www.nasa.gov/" 
+   xmlns:atom="http://www.w3.org/2005/Atom" 
+   xmlns:dc="http://purl.org/dc/elements/1.1/" 
+   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+   xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Kepler News and Features</title>
+        <description>Kepler News and Features RSS</description>
+        <link>http://www.nasa.gov/</link>
+        <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss" />
+        <language>en-us</language>
+        <webMaster>brian.dunbar@nasa.gov</webMaster>
+        <item>
+            <title>Know Thy Star, Know Thy Planet</title>
+            <link>http://www.nasa.gov/feature/ames/kepler/know-thy-star-know-thy-planet</link>
+            <description>Astronomers confirm TRAPPIST-1 is a single star and validate that its three transiting planets are Earth-size.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/534091main_pia13994-43_full_0.jpg?itok=5i-NTtJN" length="1195033" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/feature/ames/kepler/know-thy-star-know-thy-planet</guid>
+            <pubDate>Wed, 14 Sep 2016 10:31 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+        </item>
+        <item>
+            <title>Rus Belikov and Eduardo Bendek: NASA in Silicon Valley Podcast</title>
+            <link>http://www.nasa.gov/ames/nisv-podcast-Rus-Belikov-and-Eduardo-Bendek</link>
+            <description>A conversation with Rus Belikov and Eduardo Bendek, senior research scientists at NASA’s Ames Research Center, working on next generation technology to directly image planets beyond the solar system.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nisv.jpg?itok=go08eL1b" length="367411" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/ames/nisv-podcast-Rus-Belikov-and-Eduardo-Bendek</guid>
+            <pubDate>Wed, 31 Aug 2016 18:27 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+        </item>
+        <item>
+            <title>ESO Discovers Earth-Size Planet in Habitable Zone of Nearest Star</title>
+            <link>http://www.nasa.gov/feature/jpl/eso-discovers-earth-size-planet-in-habitable-zone-of-nearest-star</link>
+            <description>A newly discovered, roughly Earth-sized planet orbiting our nearest neighboring star might be habitable.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/proximasurface.jpg?itok=QWXjrxCo" length="227019" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/feature/jpl/eso-discovers-earth-size-planet-in-habitable-zone-of-nearest-star</guid>
+            <pubDate>Wed, 24 Aug 2016 16:48 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+        </item>
+        <item>
+            <title>Kepler Mission Manager Update: Photometer Update</title>
+            <link>http://www.nasa.gov/feature/ames/kepler/kepler-mission-manager-update-photometer-update</link>
+            <description>The team has confirmed that the photometer responded as expected and began collecting data again on Tuesday, Aug. 2.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/kepler-k2_artistconcept.jpg?itok=zPYxm_DU" length="6115123" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/feature/ames/kepler/kepler-mission-manager-update-photometer-update</guid>
+            <pubDate>Fri, 12 Aug 2016 16:35 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+        </item>
+        <item>
+            <title>Kepler Watches Stellar Dancers in the Pleiades Cluster</title>
+            <link>http://www.nasa.gov/feature/jpl/kepler-watches-stellar-dancers-in-the-pleiades-cluster</link>
+            <description>NASA&#039;s Kepler space telescope has helped amass the most complete catalog of rotation periods for stars in a cluster</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/pleiades-in-pj.png?itok=ex-N2NLi" length="6325171" type="image/png" />
+            <guid isPermaLink="false">http://www.nasa.gov/feature/jpl/kepler-watches-stellar-dancers-in-the-pleiades-cluster</guid>
+            <pubDate>Fri, 12 Aug 2016 13:15 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+        </item>
+        <item>
+            <title>Kepler Mission Manager Update: K2 Campaign 10</title>
+            <link>http://www.nasa.gov/feature/ames/kepler/kepler-mission-manager-update-k2-campaign-10</link>
+            <description>The team finds the photometer—the camera onboard the Kepler spacecraft—powered off. The photometer was turned on again and commanded to resume science operations.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/kepler.jpg?itok=p7GAKEqH" length="370256" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/feature/ames/kepler/kepler-mission-manager-update-k2-campaign-10</guid>
+            <pubDate>Fri, 05 Aug 2016 14:10 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+        </item>
+        <item>
+            <title>Astronomers Help Focus Research in the Search for Another Earth</title>
+            <link>http://www.nasa.gov/feature/ames/kepler/astronomers-help-focus-research-in-the-search-for-another-earth</link>
+            <description>Astronomers have catalogued the Kepler planet candidates that may be similar to our third rock from the sun.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/kepler186f_artistconcept.jpg?itok=933pWNEh" length="3778841" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/feature/ames/kepler/astronomers-help-focus-research-in-the-search-for-another-earth</guid>
+            <pubDate>Wed, 03 Aug 2016 18:50 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+        </item>
+        <item>
+            <title>NASA’s Kepler Confirms 100+ Exoplanets During Its K2 Mission</title>
+            <link>http://www.nasa.gov/feature/ames/kepler/nasa-s-kepler-confirms-100-exoplanets-during-its-k2-mission</link>
+            <description>An international team of astronomers has discovered and confirmed a treasure trove of new worlds using NASA’s Kepler spacecraft on its K2 mission.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/k2_100planet_header.png?itok=iUfLGYo3" length="1091469" type="image/png" />
+            <guid isPermaLink="false">http://www.nasa.gov/feature/ames/kepler/nasa-s-kepler-confirms-100-exoplanets-during-its-k2-mission</guid>
+            <pubDate>Mon, 18 Jul 2016 11:59 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+        </item>
+        <item>
+            <title>NASA&#039;s K2 Finds Newborn Exoplanet Around Young Star</title>
+            <link>http://www.nasa.gov/feature/jpl/nasas-k2-finds-newborn-exoplanet-around-young-star</link>
+            <description>Astronomers have discovered the youngest fully formed exoplanet ever detected.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/pia20690_-_main.jpg?itok=PYy9EYDy" length="1549916" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/feature/jpl/nasas-k2-finds-newborn-exoplanet-around-young-star</guid>
+            <pubDate>Mon, 20 Jun 2016 10:50 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+        </item>
+        <item>
+            <title>New Planet Is Largest Discovered That Orbits Two Suns</title>
+            <link>http://www.nasa.gov/feature/goddard/2016/new-planet-is-largest-discovered-that-orbits-two-suns</link>
+            <description>If you cast your eyes toward the constellation Cygnus, you’ll be looking in the direction of the largest planet yet discovered around a double-star system. It’s too faint to see with the naked eye, but a team led by astronomers from Goddard and San Diego State University, used NASA&#039;s Kepler Space Telescope to identify the new planet.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/images/587854main_Kepler16_planetpov_art_full.jpg?itok=L_5k6olL" length="938209" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/feature/goddard/2016/new-planet-is-largest-discovered-that-orbits-two-suns</guid>
+            <pubDate>Mon, 13 Jun 2016 13:00 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+        </item>
+    </channel>
+</rss>
